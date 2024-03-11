@@ -10,8 +10,8 @@ HELP | LEIA-ME
 #4 - Executar Signature para assinar executável;<p>
 
 OBS: Alterar os diretorios do aplicativos executáveis em cada arquivo abaixo<p>
-# compress<p>
-# signature<p>
+#compress<p>
+#signature<p>
 
 <b>Demonstração | DEMO Movie </b><p>
 [https://www.youtube.com/watch?v=c4H8freTUpw](https://youtu.be/c4H8freTUpw)
