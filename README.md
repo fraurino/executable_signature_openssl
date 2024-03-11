@@ -4,14 +4,14 @@ OpenSSL Commando MS-DOS | assinatura digital executável |executable digital sig
 
 HELP | LEIA-ME
 
-#1 - Altere os dados no arquivo file.cfg;
-#2 - Executar Export.bat para gerar certificado;
-#3 - Executar Compress caso queira passar UPX;
-#4 - Executar Signature para assinar executável;
+#1 - Altere os dados no arquivo file.cfg;<p>
+#2 - Executar Export.bat para gerar certificado;<p>
+#3 - Executar Compress caso queira passar UPX;<p>
+#4 - Executar Signature para assinar executável;<p>
 
-OBS: Alterar os diretorios do aplicativos executáveis em cada arquivo abaixo
-# compress
-# signature
+OBS: Alterar os diretorios do aplicativos executáveis em cada arquivo abaixo<p>
+# compress<p>
+# signature<p>
 
 <b>Demonstração | DEMO Movie </b><p>
 [https://www.youtube.com/watch?v=c4H8freTUpw](https://youtu.be/c4H8freTUpw)
